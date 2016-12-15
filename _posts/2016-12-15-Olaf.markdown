@@ -2,7 +2,7 @@
 layout: post
 title:  "Motivos infantiles"
 date:   2016-12-15
-preview: http://placehold.it/300x300
+portada: Olaf.jpg
 ---
 
 ![Picture 1]({{site.baseurl}}/assets/Olaf.jpg)

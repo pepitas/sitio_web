@@ -2,7 +2,7 @@
 layout: post
 title:  "Fechas especiales"
 date:   2016-12-15 
-preview: http://placehold.it/300x300
+portada: corazones.jpg
 ---
 
 ![Picture 1]({{site.baseurl}}/assets/corazones.jpg)
