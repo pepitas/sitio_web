@@ -1,0 +1,14 @@
+# Site settings
+title: Pepitas Repostería Creativa
+email: andrea1082@hotmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Producción de cupcakes, respostería creativa y artistica en Medellín, Colombia
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: 
+github_username:
+whatsapp_username: 3215455497  
+
+# Build settings
+markdown: kramdown
+permalink: pretty

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pepitas Repostería Creativa</title>
+    <description>Producción de cupcakes, respostería creativa y artistica en Medellín, Colombia
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 15 Dec 2016 16:10:33 +0100</pubDate>
+    <lastBuildDate>Thu, 15 Dec 2016 16:10:33 +0100</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Motivos infantiles</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/Olaf.jpg&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Cupcakes con diseños de motivos especiales. Se decoran superhereoes, princesas y todo tipo de personajes infantiles en frosting y fundant.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 15 Dec 2016 00:00:00 +0100</pubDate>
+        <link>http://yourdomain.com/2016/12/15/Olaf/</link>
+        <guid isPermaLink="true">http://yourdomain.com/2016/12/15/Olaf/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Fechas especiales</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/corazones.jpg&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Celebra tus fechas especias con cupcakes con motivos especiales.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 15 Dec 2016 00:00:00 +0100</pubDate>
+        <link>http://yourdomain.com/2016/12/15/Fechas/</link>
+        <guid isPermaLink="true">http://yourdomain.com/2016/12/15/Fechas/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Colores y Sabores</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/navidad.jpg&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Puedes elegir entre una gran variedad de colores y sabores.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 15 Dec 2016 00:00:00 +0100</pubDate>
+        <link>http://yourdomain.com/2016/12/15/Colores/</link>
+        <guid isPermaLink="true">http://yourdomain.com/2016/12/15/Colores/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

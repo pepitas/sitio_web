@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Colores y Sabores"
+date:   2016-12-15 
+preview: http://placehold.it/300x300
+---
+
+![Picture 1]({{site.baseurl}}/assets/navidad.jpg)
+
+Puedes elegir entre una gran variedad de colores y sabores. 

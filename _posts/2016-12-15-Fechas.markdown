@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Fechas especiales"
+date:   2016-12-15 
+preview: http://placehold.it/300x300
+---
+
+![Picture 1]({{site.baseurl}}/assets/corazones.jpg)
+
+Celebra tus fechas especias con cupcakes con motivos especiales. 
+

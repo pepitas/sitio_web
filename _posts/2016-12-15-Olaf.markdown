@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Motivos infantiles"
+date:   2016-12-15
+preview: http://placehold.it/300x300
+---
+
+![Picture 1]({{site.baseurl}}/assets/Olaf.jpg)
+
+Cupcakes con diseños de motivos especiales. Se decoran superhereoes, princesas y todo tipo de personajes infantiles en frosting y fundant. 
+
