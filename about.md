@@ -4,7 +4,7 @@ title: Acerca
 permalink: /about/
 ---
 
-Estos son los mejores cupcakes de Medellín. 
+Estos son los mejores cupcakes de Medellín. Estos cupcakes son hechos con mucho amor. 
 
 # Pedidos
 Haga sus pedidos por telefono o whatsapp en el numero: {{site.whatsapp_username}}
