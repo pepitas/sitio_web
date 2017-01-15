@@ -7,5 +7,5 @@ portada: Olaf.jpg
 
 ![Picture 1]({{site.baseurl}}/assets/Olaf.jpg)
 
-Cupcakes con diseños de motivos especiales. Se decoran superhereoes, princesas y todo tipo de personajes infantiles en frosting y fundant. 
+Cupcakes con diseños de motivos especiales. Se decoran superhereoes, princesas y todo tipo de personajes infantiles en frosting y fondant. 
 
